@@ -2,6 +2,7 @@
 <title>Don Buchanan's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Blacksmith (Level 6)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Master Miller (Level 7)</title><description>Add only part of a file to the stage 189 times with git add -p.</description></item>
 <item><title>Master Socialite (Level 8)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Apprentice Investigator (Level 1)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Butcher (Level 4)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Apprentice Cleaning lady (Level 2)</title><description>Remove untracked files from the working tree with git clean</description></item>
 <item><title>Apprentice Miller (Level 3)</title><description>Add only part of a file to the stage 24 times with git add -p.</description></item>
-<item><title>Stamp Collector</title><description>Investigate old branches by using git reflog --date=relative</description></item>
 </channel></rss>
