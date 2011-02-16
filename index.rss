@@ -2,24 +2,7 @@
 <title>Don Buchanan's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>Apprentice Goldsmith (Level 2)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
-<item><title>Apprentice Goldsmith (Level 1)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
-<item><title>Apprentice Investigator (Level 2)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
-<item><title>Master Author (Level 8)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Blacksmith (Level 6)</title><description>Created a branch using git checkout -b.</description></item>
-<item><title>Master Miller (Level 7)</title><description>Add only part of a file to the stage 189 times with git add -p.</description></item>
-<item><title>Master Socialite (Level 8)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Apprentice Investigator (Level 1)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
-<item><title>Banker (Level 6)</title><description>Join two or more development histories together with git merge.</description></item>
-<item><title>Master Stone Mason (Level 7)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Miller (Level 6)</title><description>Add only part of a file to the stage 105 times with git add -p.</description></item>
-<item><title>Master Socialite (Level 7)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Master Author (Level 7)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Blacksmith (Level 5)</title><description>Created a branch using git checkout -b.</description></item>
-<item><title>Apprentice Product Manager (Level 1)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
-<item><title>Miller (Level 5)</title><description>Add only part of a file to the stage 68 times with git add -p.</description></item>
-<item><title>Apprentice Hunter (Level 3)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
-<item><title>Stone Mason (Level 6)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Miller (Level 4)</title><description>Add only part of a file to the stage 33 times with git add -p.</description></item>
-<item><title>Stone Mason (Level 5)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
+<item><title>Apprentice Author (Level 1)</title><description>Made 2^Level commits using git commit.</description></item>
+<item><title>Apprentice Stone Mason (Level 1)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
+<item><title>Student</title><description>Accessed the documentation for a command with git [command] --help</description></item>
 </channel></rss>
